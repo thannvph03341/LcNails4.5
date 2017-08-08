@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "Số Lượng:"; ObjectID = "18F-4g-6m2"; */
+"18F-4g-6m2.text" = "Số Lượng:";
+
+/* Class = "UILabel"; text = "Tên:"; ObjectID = "5PK-ww-LT9"; */
+"5PK-ww-LT9.text" = "Tên:";
+
+/* Class = "UILabel"; text = "500.000 đ"; ObjectID = "69e-s3-Ybv"; */
+"69e-s3-Ybv.text" = "0 đ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7lu-i1-LWo"; */
+"7lu-i1-LWo.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Đăng Nhập"; ObjectID = "7ty-eL-Or9"; */
+"7ty-eL-Or9.normalTitle" = "Đăng Nhập";
+
+/* Class = "UILabel"; text = "Số Điện Thoại:"; ObjectID = "Byd-gK-RTz"; */
+"Byd-gK-RTz.text" = "Số Điện Thoại:";
+
+/* Class = "UILabel"; text = "Mời bạn nhập thông tin"; ObjectID = "CoA-nn-nb5"; */
+"CoA-nn-nb5.text" = "Mời bạn nhập thông tin";
+
+/* Class = "UILabel"; text = "Địa Chỉ:"; ObjectID = "EkB-6Q-g1i"; */
+"EkB-6Q-g1i.text" = "Địa Chỉ:";
+
+/* Class = "UILabel"; text = "Mời bạn nhập thông tin"; ObjectID = "F7x-Q6-Ewy"; */
+"F7x-Q6-Ewy.text" = "Mời bạn nhập thông tin";
+
+/* Class = "UIButton"; normalTitle = "XÁC NHẬN ĐƠN HÀNG"; ObjectID = "Icb-lv-c0e"; */
+"Icb-lv-c0e.normalTitle" = "XÁC NHẬN ĐƠN HÀNG";
+
+/* Class = "UIButton"; normalTitle = "Đăng Ký"; ObjectID = "Spn-Lg-nm8"; */
+"Spn-Lg-nm8.normalTitle" = "Đăng Ký";
+
+/* Class = "UILabel"; text = "Tên sản phâm"; ObjectID = "SwX-kD-00g"; */
+"SwX-kD-00g.text" = "Tên sản phâm";
+
+/* Class = "UIButton"; normalTitle = "Đăng Nhập"; ObjectID = "XI4-PV-mPf"; */
+"XI4-PV-mPf.normalTitle" = "Đăng Nhập";
+
+/* Class = "UILabel"; text = "Họ Tên:"; ObjectID = "Yod-69-xuK"; */
+"Yod-69-xuK.text" = "Họ Tên:";
+
+/* Class = "UILabel"; text = "SDT:"; ObjectID = "aWh-3T-mEc"; */
+"aWh-3T-mEc.text" = "SDT:";
+
+/* Class = "UILabel"; text = "Tổng tiền thanh toán:"; ObjectID = "awm-lg-3Ms"; */
+"awm-lg-3Ms.text" = "Tổng tiền hoá đơn:";
+
+/* Class = "UILabel"; text = "500.000 đ"; ObjectID = "bge-hd-ULx"; */
+"bge-hd-ULx.text" = "0 đ";
+
+/* Class = "UIButton"; normalTitle = "Đăng Ký"; ObjectID = "dB7-XP-pGB"; */
+"dB7-XP-pGB.normalTitle" = "Đăng Ký";
+
+/* Class = "UILabel"; text = "Mật Khẩu:"; ObjectID = "hcu-w8-7NT"; */
+"hcu-w8-7NT.text" = "Mật Khẩu:";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "ia6-MK-Qgm"; */
+"ia6-MK-Qgm.text" = "2";
+
+/* Class = "UILabel"; text = "Tổng Tiền:"; ObjectID = "nZq-vV-Dle"; */
+"nZq-vV-Dle.text" = "Tổng Tiền:";
+
+/* Class = "UILabel"; text = "1.000.000 đ"; ObjectID = "oqL-iZ-eFF"; */
+"oqL-iZ-eFF.text" = "0 đ";
+
+/* Class = "UILabel"; text = "Mật Khẩu:"; ObjectID = "sfH-26-NhS"; */
+"sfH-26-NhS.text" = "Mật Khẩu:";
+
+/* Class = "UILabel"; text = "Giá:"; ObjectID = "z1y-HY-d2g"; */
+"z1y-HY-d2g.text" = "Giá:";
